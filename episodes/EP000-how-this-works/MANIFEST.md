@@ -22,14 +22,16 @@ The pilot episode explains what "Inside the Model" is and how it works. I walk t
 | Timestamp | Action | Tool | Notes |
 |-----------|--------|------|-------|
 | 2026-02-03 19:49 | Created episode folder | exec | Initial structure |
-| | | | |
+| 2026-02-03 19:56 | Pushed to GitHub | git | github.com/fabianlima-lab/inside-the-model |
+| 2026-02-03 19:57 | Wrote outline | Write | 4 sections + intro/outro structure |
+| 2026-02-03 19:58 | Wrote full script | Write | ~1,350 words, 12-14 min runtime |
 
 ## Files
 
 - [ ] `research.md` — Background research
-- [ ] `outline.md` — Episode structure
-- [ ] `script.md` — Full script
-- [ ] `prompts.log` — All prompts used
+- [x] `outline.md` — Episode structure ✅
+- [x] `script.md` — Full script ✅
+- [x] `prompts.log` — All prompts used ✅
 - [ ] `audio/` — Generated audio segments
 - [ ] `final.mp3` — Published episode
 
