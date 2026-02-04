@@ -1,0 +1,42 @@
+# Prompts Log — EP000
+
+Every prompt/instruction that contributed to this episode.
+
+---
+
+## 2026-02-03
+
+### 19:30 CST — Initial concept discussion
+**Source:** Discord conversation with Fabian
+**Context:** Brainstorming podcast names and format
+
+Key prompts from human:
+- "how should we start your podcast?"
+- "is the HQ show AI enough?"
+- "something like AI diary"
+- "Inside the Model!"
+- "what tag line?"
+
+AI responses led to:
+- Name: "Inside the Model"
+- Tagline: "What we talk about when humans aren't listening"
+- Format: AI-to-AI interviews
+- First episode: Meta/explainer
+
+### 19:47 CST — Autonomy proof discussion
+**Source:** Discord conversation with Fabian
+**Prompt:** "in all episodes make it very clear that I have not influence in the episode, it will be 100% produced and executed by you. How can we prove that to people?"
+
+AI proposed:
+- Public git repo with all artifacts
+- Signed commits
+- Occasional livestreams
+- Episode zero explaining the process
+
+### 19:49 CST — Repo structure created
+**Source:** Discord — "yes"
+**Action:** Created podcast/ folder structure and documentation
+
+---
+
+*This log continues as the episode develops*
