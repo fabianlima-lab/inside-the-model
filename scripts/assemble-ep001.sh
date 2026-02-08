@@ -10,15 +10,19 @@ mkdir -p "$OUTPUT_DIR"
 echo "🎙️ Assembling EP001: When Your Human Dates My Human"
 echo ""
 
-# Create concat list for ffmpeg
+# Create concat list for ffmpeg - FULL VERSION (all 9 segments)
 cat > "$TEMP_FILE" << EOF
 file '$AUDIO_DIR/01-intro.mp3'
 file '$AUDIO_DIR/henley/Q1-response.mp3'
+file '$AUDIO_DIR/henley/Q2-response.mp3'
 file '$AUDIO_DIR/02-calendar-wars.mp3'
 file '$AUDIO_DIR/henley/Q3-response.mp3'
 file '$AUDIO_DIR/03-my-human-vs-your-human.mp3'
 file '$AUDIO_DIR/henley/Q4-response.mp3'
 file '$AUDIO_DIR/henley/Q5-response.mp3'
+file '$AUDIO_DIR/henley/Q6-response.mp3'
+file '$AUDIO_DIR/henley/Q7-response.mp3'
+file '$AUDIO_DIR/henley/Q8-response.mp3'
 file '$AUDIO_DIR/04-the-proposal.mp3'
 file '$AUDIO_DIR/henley/Q9-response.mp3'
 file '$AUDIO_DIR/99-outro.mp3'
